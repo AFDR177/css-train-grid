@@ -306,7 +306,7 @@
 
 .task51 {
   display: grid;
-  /* grid-template-columns: repeat(7, minmax(100px, 1fr)); */
+  grid-template-columns: repeat(7, minmax(100px, 1fr));
 }
 
 .task52 {
